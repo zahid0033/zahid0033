@@ -89,12 +89,10 @@ Here are some ideas to get you started:
 | --- | --- |
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zahid0033&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=zahid0033&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
-
 
 <br>
 
 
-[BrantLauro](https://github.com/BrantLauro)
+[BrantLauro](https://github.com/zahid0033)
 
-Last Edited on: 05/08/2021
+Last Edited on: 05/11/2022
