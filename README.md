@@ -93,6 +93,6 @@ Here are some ideas to get you started:
 <br>
 
 
-[BrantLauro](https://github.com/zahid0033)
+[Zahid Hossain](https://github.com/zahid0033)
 
 Last Edited on: 05/11/2022
