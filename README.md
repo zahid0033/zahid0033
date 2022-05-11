@@ -4,7 +4,7 @@
 <h1 align="center">Hi 👋, I'm Zahid <img height="40" src="https://emoji.gg/assets/emoji/7333-parrotdance.gif"></h1>
 <h3 align="center">A Passionate JavaScript Developer</h3>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
+<p align="right"> <h3>Profile Views :</h3> <img src="https://komarev.com/ghpvc/?username=zahid0033&label=Profile%20views&color=0e75b6&style=flat"
     alt="adam-pw" /> 
   </p>
   
